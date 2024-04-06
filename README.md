@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm kishan gowda</h1>
-<h3 align="center">A passionate software engineer India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Kishan+Gowda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=A+passionate+devops+engineer+from+India✨)](https://git.io/typing-svg)
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
